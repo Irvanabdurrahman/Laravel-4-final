@@ -1,6 +1,6 @@
 # Laravel 4 #
 
-*  Irvan Abdurrahman
+1. Irvan Abdurrahman
 
 	*	Twitter	: https://twitter.com/irvaen182
 	* 	Facebook : https://www.facebook.com/abdurrahman.irvan
